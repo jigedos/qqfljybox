@@ -10,7 +10,7 @@
 
 { 
  "key": "AList", 
- "name": "🌈公众号：吾爱有三日月与卿（AList）", 
+ "name": "🌈wdqc（AList）", 
  "type": 3, 
  "api": "csp_AList", 
  "searchable": 1, 
