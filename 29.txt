@@ -1,6 +1,6 @@
 //🇨🇳欧歌2023-03-03 09:25:49整合本接口 
 
-
+{
 "spider":"./jar/ou.jar;md5;0fde45e924ea1c26625cbc2cac920c23",
 
 "wallpaper":"http://tv.nxog.top/api/api/t",
