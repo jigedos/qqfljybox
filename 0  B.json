@@ -1,0 +1,80 @@
+//🇨🇳欧歌2023-03-09 12:51:49整合本接口 
+
+{ "wallpaper":"./t/", 
+
+"spider":"http://w1.nxog.top/d/tvbox/jar/ou.jar?sign=AJW_Z60zV-FwJNLBcwwDZDhuZDKSeTld_bhV_n5v9MM=:0;md5;0fde45e924ea1c26625cbc2cac920c23","warningText":"公众号欧歌api，长期维护，切勿贩卖。", 
+
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=http://tv.ouhaibo2.repl.co/m/tv/index.php"]}]}], 
+
+"sites": [ 
+
+{"key":"drpy_js_榜单荐片","name":"❤更新:3/8❤4","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/drpy.js"}, 
+
+{"key" : "drpy_js_榜单荐片2","name" : "公众号欧歌api","type" : 3,"api": "http://tv.ouhaibo2.repl.co/m/js/drpy.js","ext": "http://tv.ouhaibo2.repl.co/m/MaooXX/欧歌聚合搜索.js"}, 
+
+{ "key": "csp_Alistaa", "name": "🗂Alist网盘（姬路白雪 听闻网盘  DISK 云播放 星梦）", "type": 3, "api": "csp_Alist", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://tv.ouhaibo2.repl.co/m/a3/1.json" }, 
+
+{ "key": "csp_Alistbb", "name": "🗂Alist网盘2（9T(Adult) 资源小站 晴园的宝藏库 米奇妙妙屋 小兵组网盘影视 一只鱼）", "type": 3, "api": "csp_Alist", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://tv.ouhaibo2.repl.co/m/a3/2.json" }, 
+
+{ "key": "csp_Alistcc", "name": "🗂Alist网盘3（七米蓝 帅盘 小江 触光 好汉吧 轻弹浅唱）", "type": 3, "api": "csp_Alist", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://tv.ouhaibo2.repl.co/m/a3/3.json" }, 
+
+{ "key": "csp_Alistdd", "name": "🗂Alist网盘4（小雅）", "type": 3, "api": "csp_Alist", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://tv.ouhaibo2.repl.co/m/a3/4.json" }, 
+
+
+
+{"key":"csp_BBB","name":"🅱️哔哩套餐🥮（ 广场舞 性感MV MV合集 热舞合集 舞蹈合集 美女合集 女神合集 泳装合集 演唱会 戏曲 相声小品 风景 MV 歌舞 说案 演讲 解说 儿童 苏教版 人教版 沪教版 北师大版 搞笑健身 食谱 球星 动物世界 窗白噪音 UP主）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tv.ouhaibo2.repl.co/m/Bilibili/bili.php"}, 
+
+{"key": "Bili","name": "🅱️哔哩套餐2（小姐姐 野外求生 百家讲坛 KEEP 游泳 英雄联盟 王者荣耀 纪录片Discovery探索频道 真人秀 电影解说 挑战 露营 蹦极 白噪音 美食 体育 相声小品 足球 篮球 动物世界 凡人修仙传）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/哔哩.php"}, 
+
+{"key": "软件","name": "🅰️软件教程（MT管理器 网盘挂载 alist+WebDav TVBox修改 阿里换token
+Git入门到精 java phyton xml photoshopPR AEC4D）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/软件教程.php"}, 
+
+{"key": "演唱会","name": "🅰️演唱会（演唱会 粤语 2022年热榜 KTV热门 滚石经典 经典老歌 古风歌曲 闽南语歌曲 印度歌舞 DJ 网红翻唱 韩国女团 A阿黛尔 Blaokpink Beyond 
+~~~~Z张卫健 Z猪哥亮 Z周杰伦 Z周深 Z张蔷 Z张帝 Z张琳 Z张国荣 Z周传雄）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/演唱会.php"}, 
+
+{"key": "戏曲","name": "🅰️戏曲合集(京剧 越剧 梦剧 蒲剧 吕剧 眉户 歌仔戏 黄梅戏 黄梅戏
+评剧 豫剧 沪剧 昆曲 花鼓戏 潮剧 超清潮剧 百花潮剧院 香港潮剧 潮剧院 潮剧团 潮剧全剧 潮剧选段 名家潮剧潮汕小品 潮汕讲古 河北梆子 梆子腔 晋剧 龙江剧 越调 河南曲剧 山东梆子 淮剧 滑稽戏 妾剧 绍剧 徽剧 雁剧上党梆子 秦腔 武安平调 二人台 吉剧 高腔)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/戏曲.php"}, 
+
+{"key": "合集","name": "💋合集（电影 电视剧 综艺 热播电影 动漫）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/菜单.php"}, 
+
+{"key": "球类","name": "⚽️球类合集（足球 手球 篮球 排球 羽毛球 网球 高尔夫球 冰球 沙滩排球
+棒球 垒球 藤球 毽球 乒乓球 台球 鞠蹴 板球 壁球 砂壶 冰壶 克郎球 橄榄球 曲棍球 水球 马球 保龄球 健身球 门球 弹球）","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/球球.php"}, 
+
+{"key": "UP主","name": "🎮UP主（B笔记本维厮 D大大的小番茄）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/UP主.php"}, 
+
+{"key": "MV","name": "🌈歌曲MV（MV 粤语 2022年热榜 KTV热门 滚石经典 经典老歌 古风MV 闽南语MV 印度歌舞 网红翻唱 韩国女团 A阿黛尔 Blackpink Beyond B坂井泉水~~~~中岛美雪 Z张学友 Z猪哥亮   Z周杰伦 Z周深 Z张蔷 Z张帝 Z张国荣 Z周传雄）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/MTV.php"}, 
+
+{"key": "美食","name": "🌈美食(美食 火锅 烧烤 烤鱼 海鲜 津菜 川菜 湘菜 鲁菜 苏菜 闽菜 粤菜 东北菜 冀菜豫菜 鄂菜 本帮菜 客家菜 赣菜 京菜 浙菜 徽菜 湘菜 凉菜 蒸菜 日料 点心 面食 汉堡 小吃 素食 韩国菜 泰国菜穆斯林菜 土耳其菜系 法国菜 意大利菜 希腊菜 德国菜 西班牙菜 阿拉伯菜 伊朗菜 中亚菜 糖尿病菜 早餐)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/美食.php"}, 
+
+{"key": "学堂","name": "🅰️学堂教育(儿童早教儿童启蒙故事儿童英语启蒙 儿童歌曲儿童绘画
+睡前故事儿童动画儿童音乐儿童安全教育贝瓦儿歌悟空识字宝宝巴士儿歌多多学而思1年级语文1年级数学1年级英语2年级语文~~~~高三生物高三思想政治高三物理高三化学高中信息技术高中信息技术)","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/学堂.php"}, 
+
+{"key": "少儿","name": "🅰️少儿合集(儿童 宝宝巴士 悟空识字 少儿 学而思 小学 初中 高中 教育)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/少儿教育.php"}, 
+
+{"key": "小学课堂","name": "🅰️小学课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/小学课堂.php"}, 
+
+{"key": "初中课堂","name": "🅰️初中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/初中课堂.php"}, 
+
+{"key": "高中课堂","name": "🅰️高中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://tv.ouhaibo2.repl.co/m/Bilibili/高中课堂.php"}, 
+
+{"key" : "drpy_js_榜单荐片3","name" : "长期维护，切勿贩卖。","type" : 3,"api": "./m/js/drpy.js","ext": "http://tv.ouhaibo2.repl.co/m/MaooXX/欧歌聚合搜索.js"} ], 
+
+"parses":[ 
+{"name":"Web聚合","type":3,"url":"Web"}, 
+{"name":"Json聚合","type":3,"url":"Demo"}, 
+{"name":"Json并发","type":2,"url":"Parallel"}, 
+{"name":"1-B站","url":"https://jx.bozrc.com:4433/player/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}}, 
+{"name":"2-yparse","type":0,"url":"https://jx.yparse.com/index.php?url="}, 
+{"name":"3-13tv","type":0,"url":"http://www.13tv.top/label/v.html?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}}, 
+{"name":"4-wp","type":0,"url":"http://api.wpsseo.cn/?v="}, 
+{"name":"5-yh","type":0,"url":"https://go.yh0523.cn/y.cy?url="}, 
+{"name":"6-ai","type":0,"url":"https://jx.aidouer.net/?url="}, 
+{"name":"7-5g","type":0,"url":"https://sb.5gseo.net/?url="}, {"name":"8-全民","url":"http://api.wpsseo.cn/?v=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","9-芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}}, 
+{"name":"10-诺讯","url":"https://www.nxflv.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","11-mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}}, {"name":"12-虾米","url":"https://dm.xmflv.com:4433/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}}, {"name":"ckflv","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}}, 
+{"name":"pan解析","type":1,"url":"http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}}, {"name":"Json轮询","type":2,"url":"Sequence"} ], 
+
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","duoduozy","xinluan","ddzy","tgqp","tkqp","XRJX"],
+
+"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
