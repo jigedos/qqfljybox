@@ -6,11 +6,11 @@
 
 
 //支持bilibili
-"spider":"https://agit.ai/qqfljy/TVBox/raw/branch/master/wa2.dex",
+//"spider":"https://agit.ai/qqfljy/TVBox/raw/branch/master/wa2.dex",
 
 
 //sq
-"spider":"https://agit.ai/qqfljy/TVBox/raw/branch/master/sqts.jar",
+//"spider":"https://agit.ai/qqfljy/TVBox/raw/branch/master/sqts.jar",
 
 //custom_spider
 "spider": "https://agit.ai/qqfljy/TVBox/raw/branch/master/custom_spider.jar",
@@ -72,7 +72,7 @@
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3FxZmxqeS9UVkJveC9yYXcvYnJhbmNoL21hc3Rlci9saXZlJTIwLSUyMCVlNSViMCU5MSVlNSU4NCViZi50eHQ="]}]}],
 "sites": [
-{"key": "学堂","name": " 💙豆豆学前学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/qqfljy/TVBox/raw/branch/master/ext%20%20%e8%b1%86%e8%b1%86%e5%ad%a6%e5%89%8d%e5%ad%a6%e4%b9%a0.json","spider":"https://agit.ai/qqfljy/TVBox/src/branch/master/etx%20%20spider_%e5%85%ac%e4%bc%97%e5%8f%b7%e5%90%be%e7%88%b1%e6%9c%89%e4%b8%89%e6%97%a5%e6%9c%88%e4%b8%8e%e5%8d%bf0723.jar"},
+{"key": "学堂","name": " 💙豆豆学前学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/qqfljy/TVBox/raw/branch/master/etx%20%20%e8%b1%86%e6%a2%93%e5%ad%a6%e5%a0%82.m3u","spider":"https://agit.ai/qqfljy/TVBox/src/branch/master/etx%20%20spider_%e5%85%ac%e4%bc%97%e5%8f%b7%e5%90%be%e7%88%b1%e6%9c%89%e4%b8%89%e6%97%a5%e6%9c%88%e4%b8%8e%e5%8d%bf0723.jar"},
 
  
 
