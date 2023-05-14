@@ -1,8 +1,8 @@
 //友情提醒：所有资源来自互联网，个人自用无任何商业违法用途，请不要转载传播谢谢合作！！！如有侵权，请联系，会在第一时间删除 ，谢谢.资源与内容禁止并谢绝未经本人许可下使用，未经本人许可下使用，需自行承担一切风险与责任.所有资源与内容，随时都有可能删除.未经本人许可下使用的，请慎重！慎重！慎重！
 {
 //Update:2023-02-08 14:22:05.887324
-//0329
-"spider":"https://agit.ai/qqfljy/TVBox/raw/branch/master/0329.jar",
+//fm
+"spider":"https://agit.ai/qqfljy/TVBox/raw/branch/master/fm.jar",
 
 
 //支持bilibili
